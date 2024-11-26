@@ -1,0 +1,8 @@
+img.cards__image {
+  max-width: 250px;
+  cursor: pointer;
+}
+
+.cards-container {
+  min-height: 300px;
+}
